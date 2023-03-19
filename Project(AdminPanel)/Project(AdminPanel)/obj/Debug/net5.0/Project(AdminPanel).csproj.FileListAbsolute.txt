@@ -116,4 +116,5 @@ C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Proje
 C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Git\Project-AdminPanel-\Project(AdminPanel)\Project(AdminPanel)\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs

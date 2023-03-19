@@ -2,7 +2,7 @@
 
 namespace Project_AdminPanel_.Controllers
 {
-    public class DashboardController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
