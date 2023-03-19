@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documents\\homework(itbrains)\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\Git\\Project-AdminPanel-\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documents\\homework(itbrains)\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Git\\Project-AdminPanel-\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\homework(itbrains)\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Git\\Project-AdminPanel-\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj",
         "projectName": "Project(AdminPanel)",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\homework(itbrains)\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Git\\Project-AdminPanel-\\Project(AdminPanel)\\Project(AdminPanel)\\Project(AdminPanel).csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\homework(itbrains)\\Project(AdminPanel)\\Project(AdminPanel)\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Git\\Project-AdminPanel-\\Project(AdminPanel)\\Project(AdminPanel)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
