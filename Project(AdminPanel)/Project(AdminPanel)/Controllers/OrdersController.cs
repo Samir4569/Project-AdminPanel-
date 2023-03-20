@@ -6,6 +6,15 @@ namespace Project_AdminPanel_.Controllers
     {
         public IActionResult Index()
         {
+
+            return View();
+        }
+        public IActionResult Create()
+        {
+            return View();
+        }
+        public IActionResult Description()
+        {
             return View();
         }
     }
